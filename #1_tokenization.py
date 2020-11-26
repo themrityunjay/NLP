@@ -42,7 +42,7 @@ paragraph="""I have three visions for India. In 3000 years of our history, peopl
 
 #Tokenizing sentences
 
-sentences=nltk.sent_tokenize(paragraph)
+sentences=nltk.sent_tokenize(paragraph) # Paragraph will be converted into sentences.
 
 #Tokenizing Words
-words=nltk.word_tokenize(paragraph)
+words=nltk.word_tokenize(paragraph) # Pragraph will be converted into indivisual words
